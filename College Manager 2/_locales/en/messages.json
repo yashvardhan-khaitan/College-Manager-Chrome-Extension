@@ -1,0 +1,10 @@
+{
+    "appName": {
+      "message": "My App",
+      "description": "College Manager"
+    },
+    "appDesc": {
+      "message": "This app does something awesome.",
+      "description":"Automatically browse data of over 6,000+ institutions across the country, including the eight Ivy League Schools, the ten UC campuses, the ten Claremont Colleges, and the twenty-three CSU's. Have access to the latest information, such as FAFSA, in-state and out-of-state tuition, application requirements, standardized test percentile scores, urbanization, college type, and so much more, all in once place. View information that might have a lasting affect on your decision and application, such as the college's mission statement. Get real-time breakdowns for SAT/ACT scores and admission requirements. Want to save the amount of time spent on finding data on your dream school? Just wait til you try College Manager."
+    }
+  }
